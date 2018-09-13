@@ -1,0 +1,12 @@
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\ClasesGimnasio.dll
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\ClasesGimnasio.pdb
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\ClasesGimnasio.xml
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\AccesoDatos.dll
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\AccesoDatos.pdb
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\bin\Debug\AccesoDatos.xml
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.vbprojResolveAssemblyReference.cache
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.Resources.resources
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.vbproj.GenerateResource.Cache
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.dll
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.xml
+D:\Parcial1_SofiaManzoni\WebApplication1\ClasesGimnasio\obj\Debug\ClasesGimnasio.pdb
