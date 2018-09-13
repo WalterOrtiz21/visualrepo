@@ -29,4 +29,12 @@ Public Class Ciudad
     Sub Guardar()
         gDatos.Ejecutar("spInsertarCiudad", Me.Descripcion)
     End Sub
+
+    Sub actualizar()
+        gDatos.Ejecutar("spActulizarCiudad", Me.CodCiudad, Me.Descripcion)
+    End Sub
+
+    Sub Eliminar()
+        gDatos.Ejecutar("spEliminarCiudad", Me.CodCiudad)
+    End Sub
 End Class
