@@ -37,4 +37,18 @@ Public Class Ciudad
     Sub Eliminar()
         gDatos.Ejecutar("spEliminarCiudad", Me.CodCiudad)
     End Sub
+
+    Public Function RecuperarCiudad(CodCiudad1 As Integer) As Ciudad
+        Dim tabla As New DataTable
+        tabla = gDatos.TraerDataTable("spConsultarCiudadPorCodigo", CodCiudad1)
+        If tabla.Rows.Count > 0 Then
+            Dim vciudad As New Ciudad
+            vciudad.CodCiudad = tabla.Rows(0).Item("CodCiudad")
+            vciudad.Descripcion = tabla.Rows(0).Item("Descripcion")
+            Return vciudad
+        Else
+            Return Nothing
+        End If
+
+    End Function
 End Class
