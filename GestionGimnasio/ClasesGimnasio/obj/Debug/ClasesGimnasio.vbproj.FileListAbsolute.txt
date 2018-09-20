@@ -1,0 +1,23 @@
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.dll
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.pdb
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.xml
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.dll
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.pdb
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.xml
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.vbprojResolveAssemblyReference.cache
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.Resources.resources
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.vbproj.GenerateResource.Cache
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.dll
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.xml
+D:\Hugo\POEA\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.pdb
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.dll
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.pdb
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\ClasesGimnasio.xml
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.dll
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\bin\Debug\AccesoDatos.xml
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.Resources.resources
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.vbproj.GenerateResource.Cache
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.dll
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.xml
+C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\ClasesGimnasio\obj\Debug\ClasesGimnasio.pdb
