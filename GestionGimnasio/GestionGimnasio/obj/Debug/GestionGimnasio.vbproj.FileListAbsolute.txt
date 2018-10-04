@@ -54,115 +54,115 @@ D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ApplicationInsights.config
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\csc.exe
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\vbc.exe
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll.config
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.pdb
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbprojResolveAssemblyReference.cache
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.Resources.resources
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbproj.GenerateResource.Cache
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.dll
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.xml
-C:\Users\alumno-203\Documents\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.pdb
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ApplicationInsights.config
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\csc.exe
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Collections.Immutable.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Reflection.Metadata.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\vbc.exe
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe.config
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll.config
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.pdb
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Agent.Intercept.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.Web.Infrastructure.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbprojResolveAssemblyReference.cache
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.Resources.resources
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbproj.GenerateResource.Cache
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.dll
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.xml
-D:\Codigo Fuente\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\ApplicationInsights.config
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\csc.exe
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\vbc.exe
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll.config
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.Resources.resources
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbproj.GenerateResource.Cache
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\ApplicationInsights.config
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\csc.exe
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\vbc.exe
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll.config
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.Resources.resources
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbproj.GenerateResource.Cache
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.dll
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.xml
+C:\Users\alumno-203\Documents\Visual\visualrepo\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.pdb

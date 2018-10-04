@@ -11,13 +11,14 @@ End Code
     <title>Nueva Ciudad</title>
 </head>
 <body>
-    <hi>Nueva Ciudad</hi>
-          <form action= "Ciudad/Create" method="post">
-             Descripcion:
-                 <input type="text" name="txtDescripcion"/>
-                 <br />
-                 <input type="submit" value="Guardar" />
+    <h1>Nueva Ciudad</h1>
 
-   </form>
+   
+    <form action="~/Ciudad/Create" method="post">
+        Descripción:
+        <input type="text" name="txtDescripcion" />
+        <br />
+        <input type="submit" value="Guardar" />
+    </form>
 </body>
 </html>

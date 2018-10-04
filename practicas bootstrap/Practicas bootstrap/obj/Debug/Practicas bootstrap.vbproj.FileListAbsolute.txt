@@ -1,0 +1,150 @@
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\ApplicationInsights.config
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\csc.exe
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Collections.Immutable.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Reflection.Metadata.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\vbc.exe
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe.config
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll.config
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.pdb
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Agent.Intercept.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.Web.Infrastructure.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbprojResolveAssemblyReference.cache
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas_bootstrap.Resources.resources
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbproj.GenerateResource.Cache
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.dll
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.xml
+D:\POEA\Practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.pdb
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\ApplicationInsights.config
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\csc.exe
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\vbc.exe
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll.config
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.pdb
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Agent.Intercept.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.Web.Infrastructure.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbprojResolveAssemblyReference.cache
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas_bootstrap.Resources.resources
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbproj.GenerateResource.Cache
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.dll
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.xml
+C:\UAA\Cursos\POEA\2017\374\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.pdb
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\ApplicationInsights.config
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\csc.exe
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\vbc.exe
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll.config
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.pdb
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Practicas bootstrap.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Razor.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Helpers.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\bin\System.Web.Mvc.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas_bootstrap.Resources.resources
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.vbproj.GenerateResource.Cache
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.dll
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.xml
+C:\Users\alumno-203\Documents\Visual\practicas bootstrap\Practicas bootstrap\obj\Debug\Practicas bootstrap.pdb

@@ -6,7 +6,7 @@ Namespace Controllers
 
         ' GET: Home
         Function Index() As ActionResult
-            Util.inicializaSesion("M203-14", "Gym", "sa", "@lumno123")
+            Util.inicializaSesion("M203-01", "Gym", "sa", "@lumno123")
             Return View()
         End Function
     End Class

@@ -12,47 +12,46 @@ Namespace Controllers
             ViewData("Ciudades") = tabla.AsEnumerable
             Return View()
         End Function
-        ''Accion para llamnar a la vista Create de Ciudad
+        'Acción para llamar a la vista Create de ciudad
         Function Create() As ActionResult
             Return View()
         End Function
-        ''accion para recibir lso datos de la nueva ciudad para insertar
+        'Acción para recibir los datos de la nueva ciudad
+        'para insertar
+
         <HttpPost()>
         Function Create(form As FormCollection) As ActionResult
-            'creamos el objeto de LA CLASE CIUDAD
+            'Creamos el objeto de la clase ciudad
             Dim vCiudad As New Ciudad
-            'ASIGNAMOS LA PROPIEDAD LOS DATOS QUE VIENEN DEL FORMULARIO
+            'Asignamos en la propiedad los datos que vienen del formulario
             vCiudad.pDescripcion = form("txtDescripcion")
-            'LLAMAMOS AL METODO DE LA CLASE PARA REGISTRAR LA NUEVA CIUDAD
+            'Llamamos al metodo de la clase para registrar la nueva ciudad
             vCiudad.Guardar()
-            'RETORNAMOS A LA ACCION DEL CONTROLADOR
-
+            'Retornamos a la acción Index del controlador
             Return RedirectToAction("Index")
-
-
         End Function
-        'accion para llamar a vista para modificar un registro
+        'Acción para llamar a vista para modificar un registro
         Function Edit(id As Integer) As ActionResult
             Dim vCiudad As New Ciudad
             vCiudad = vCiudad.RecuperarCiudad(id)
             Return View(vCiudad)
         End Function
-        ''accion para recibir lso datos de la nueva ciudad para insertar
+
         <HttpPost()>
         Function Edit(form As FormCollection) As ActionResult
-            'creamos el objeto de LA CLASE CIUDAD
+            'Creamos el objeto de la clase ciudad
             Dim vCiudad As New Ciudad
-            'ASIGNAMOS LA PROPIEDAD LOS DATOS QUE VIENEN DEL FORMULARIO
+            'Asignamos en la propiedad los datos que vienen del formulario
             vCiudad.pDescripcion = form("txtDescripcion")
             vCiudad.pCiudadID = form("txtCiudadID")
-            'LLAMAMOS AL METODO DE LA CLASE PARA REGISTRAR LA NUEVA CIUDAD
+            'Llamamos al metodo de la clase para registrar la nueva ciudad
             vCiudad.Actualizar()
-            'RETORNAMOS A LA ACCION index DEL CONTROLADOR
+            'Retornamos a la acción Index del controlador
             Return RedirectToAction("Index")
         End Function
 
-        ' 
-        Function Eliminar(id As Integer) As ActionResult
+        'Acción para eliminar un registro de la tabla ciudad
+        Function Delete(id As Integer) As ActionResult
             Dim vCiudad As New Ciudad
             vCiudad.pCiudadID = id
             vCiudad.Eliminar()

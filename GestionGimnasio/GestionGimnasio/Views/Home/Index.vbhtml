@@ -8,9 +8,9 @@ End Code
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Sistema de Gestion para Gimnasio</title>
+    <title>Sistena de Gestión para Gimnasio</title>
 </head>
 <body>
-  <h1>Sistema de Gestion para Gimnasio</h1>
+  <h1>Sistena de Gestión para Gimnasio</h1>
 </body>
 </html>
