@@ -1,0 +1,53 @@
+-- Procedimientos almacenados para la tabla xxxx
+
+	create procedure spInsertarCategoria @Descripcion varchar(50), @Activo char(1)
+	as
+	insert Categoria Values (@Descripcion,@Activo)
+
+-- para ejecutar seleccionar y darle a ejecutar
+-- probar el prcedimiento almacenado
+
+	exec spInsertarCategoria 'Bebidas' , 'S'
+
+--Procedimiento almacenado para listar la tabla
+
+  	create procedure SpListarCategoria 
+	as
+	select * from Categoria
+
+--Procedimiento almacenado para consultar un registro de la tabla por categoria
+	
+	create procedure spConsultarCategoria @CategoriaID int
+	as
+	select * from Categoria where CategoriaID = @CategoriaID
+
+--Prueba
+	
+	exec spConsultarCategoria 2
+
+--Procedimiento almacenado para actualizar un registro de la tabla
+
+	create procedure spActualizarCategoria @categoriaID int, @Descripcion varchar(50),@Activo char(1)
+	as
+	update Categoria set Descripcion=@Descripcion,Activo=@Activo
+	where CategoriaID=@CategoriaID
+
+--pprueba
+	
+	exec spActualizarCategoria 2, 'Varios 2', 'a'
+
+--Procedimiento almacenado para eliminar un registro de la tabla
+
+	create procedure spEliminarCategoria @CategoriaID int
+	as
+	delete from Categoria where CategoriaID=@CategoriaID
+
+--Prueba
+	
+	exec spEliminarCategoria 2
+ 
+	
+	
+
+
+	
