@@ -54,3 +54,44 @@ D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
 D:\Hugo\POEA\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\ApplicationInsights.config
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\csc.exe
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Collections.Immutable.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\System.Reflection.Metadata.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\vbc.exe
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\roslyn\VBCSCompiler.exe.config
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll.config
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.pdb
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\GestionGimnasio.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.pdb
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\ClasesGimnasio.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.DependencyCollector.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.Web.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.AI.WindowsServer.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.ApplicationInsights.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Razor.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Deployment.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Webpages.Razor.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Helpers.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\System.Web.Mvc.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.pdb
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\bin\AccesoDatos.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbprojResolveAssemblyReference.cache
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.Resources.resources
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.vbproj.GenerateResource.Cache
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.dll
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.xml
+C:\visual\visualrepo\Nueva carpeta\GestionGimnasio\GestionGimnasio\obj\Debug\GestionGimnasio.pdb
