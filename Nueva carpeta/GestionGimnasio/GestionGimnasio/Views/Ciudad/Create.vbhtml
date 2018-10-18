@@ -12,12 +12,16 @@ End Code
         <h1>Nueva Ciudad</h1>
 
 
+
         <form action="~/Ciudad/Create" method="post">
             Descripción:
-            <input type="text" name="txtDescripcion" />
-            <br />
-            <input type="submit" value="Guardar" />
+            <input type="text" name="txtDescripcion" /> 
+           
+            <input type="submit" class="material-icons"> save/>
+            <i class="material-icons">save</i>
         </form>
+        <script src="~/scripts/jquery-3.3.1.min.js"></script>
     </body>
+
     </div>
    
